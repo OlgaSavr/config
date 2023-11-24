@@ -102,6 +102,3 @@ def test_product_delete3():
 def test_getting_Stepan():
     db = Database()
     print(db.get_user_address_by_name('Stepan'))
-    
-
-
